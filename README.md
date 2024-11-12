@@ -8,6 +8,33 @@ The Quantum Holographic Network Visualization is an advanced real-time monitorin
 
 ### [Live Demo](https://stackblitz.com/edit/sb1-9xze3c?file=README.md)
 
+
+
+https://github.com/user-attachments/assets/96ef9648-9639-4efd-9177-27ce613d1201
+
+
+
+
+https://github.com/user-attachments/assets/785ecafa-9c40-4f89-b8c8-0ac41871a9ef
+
+
+
+
+https://github.com/user-attachments/assets/88dd6103-f18d-41e0-ba87-466f02983491
+
+
+
+
+
+https://github.com/user-attachments/assets/f7f971fe-8f8e-4a3f-bf70-d1e52aa35d98
+
+
+
+
+
+
+
+
 ## Features
 
 - 🌐 Real-time network visualization with global coverage
