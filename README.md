@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@yourusername](https://x.com/Francisco_Ecofa)
 
 Project Link: [https://github.com/yourusername/quantum-holographic-network](https://github.com/yourusername/quantum-holographic-network)
 
