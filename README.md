@@ -1,4 +1,4 @@
-# Quantum Holographic Network Visualization
+# Long-distance transmission enhancements for both Starlink networks and NASA's deep space probes
 
 Quantum Network
 
